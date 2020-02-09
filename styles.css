@@ -1,6 +1,14 @@
 h4 {color: brown;
 text-align: center;}
+
 .Hobbies {color: brown;}
+
 h2{color: chartreuse;
 text-align: center;}
-.AboutMe {color: crimson;}
+
+.AboutMe {color: crimson;
+line-height: initial;
+}
+.study {
+    background-color: khaki;
+}
