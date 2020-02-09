@@ -5,7 +5,7 @@ text-align: center;}
 }
 
 
-h2{color: chartreuse;
+h2{color:brown;
 text-align: center;}
 
 .AboutMe {color: crimson;
@@ -14,9 +14,21 @@ text-align: center;}
     background-color: khaki;
     
 }
-.test-box {
+.test-box1 {
     padding: 6px;
     border: 2px solid red;
     margin: 20px;
-    background-color: springgreen;
+    background-color: gold;
+}
+.test-box2 {
+    padding: 6px;
+    border: 2px solid red;
+    margin: 20px;
+    background-color: gold;
+}
+.test-box3{
+    padding: 6px;
+    border: 2px solid red;
+    margin: 20px;
+    background-color: gold;
 }
