@@ -1,14 +1,22 @@
 h4 {color: brown;
 text-align: center;}
 
-.Hobbies {color: brown;}
+.Hobbies {color: brown;
+}
+
 
 h2{color: chartreuse;
 text-align: center;}
 
 .AboutMe {color: crimson;
-
 }
 .study {
     background-color: khaki;
+    
+}
+.test-box {
+    padding: 6px;
+    border: 2px solid red;
+    margin: 20px;
+    background-color: springgreen;
 }
