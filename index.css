@@ -1,12 +1,24 @@
+ol {
+  color: crimson;
+  text-align-last: auto;
+}
+p1 {
+  color: black;
+  ;
+}
+
 h1 {
-    color: blue;
+    color:crimson;
     text-align: center;
   }
   
-  p {
+h3 {
+    color: crimson;
+    text-align: center;
+  }
+p2 {
     font-family: sans-serif;
     font-style: italic;
-    text-transform: capitalize;
     text-decoration-style: wavy;
     text-align-last: inherit;
     text-indent: 2px;
@@ -18,12 +30,26 @@ h1 {
     
   }
   
-  img {
+img {
     float: right;
     background-color: gray;
   }
-  @media screen and (min-width: 480px) and (max-width: 767px)
+@media screen and (min-width: 480px) and (max-width: 767px)
   {body {
     background-color: maroon;
     color: black;
   }}
+.About {
+    text-emphasis-color: yellow;
+    font-size: 1pc;
+    font-weight: bold;
+    font-stretch: semi-condensed;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+  }
+p4 {
+    font-weight: bold;
+}
+p6 {
+  color: crimson;
+}
