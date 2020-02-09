@@ -22,3 +22,8 @@ h1 {
     float: right;
     background-color: gray;
   }
+  @media screen and (min-width: 480px) and (max-width: 767px)
+  {body {
+    background-color: maroon;
+    color: black;
+  }}
