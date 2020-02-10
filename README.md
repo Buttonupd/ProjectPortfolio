@@ -10,4 +10,4 @@ Technologies Used
 {Languages used are HTML and CSS}
 Support and contact details
 {Dankariuki0101@gmail.com}
-{This is the link to my live website: https://buttonupd.github.io/ProjectPortfolio}
+{This is the link to my live website: {https://buttonupd.github.io/ProjectPortfolio/}
